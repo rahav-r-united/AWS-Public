@@ -10,3 +10,11 @@ The tool was built with full automation, which is provided in accordance with th
 
 This tool is aimed to make the user exprience as closer as can to regular Client VPN exprience.
 
+#########
+Inputs
+#########
+Instance ID: The EC2 Instance ID as appeared in the AWS Console
+Region: The region where the EC2 Instance
+Profile: The profile name you get after you make the authentication process (You will see it in the CMD window after you finish the authentication process) - In most times it's the Permission set name with the account ID number
+Instance OS: The EC2 Instance operating system - can accept Windows or Linux
+
