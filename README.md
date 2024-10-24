@@ -1,7 +1,12 @@
 # AWS-SSO-SSM-GUI-Connector-App
 
-This tool aimed to simplify the whole proccess of connecting to an EC2 instance through AWS SSM Session manager.
+This tool aimed to visualize and simplify the whole process of connecting to an EC2 instance through AWS SSM Session manager.\
+The Connector App include the authentication process through AWS Identity Center.
 
-The Connector include the authentication through AWS Identity Center.
+The application knows how to receive a configuration file in JSON format for setting constant variables and also knows how to work without the file or without part of the variables in the file.\
+The application supports connection to Linux operating systems with SSH and Windows via RDP.
 
+The tool was built with full automation, which is provided in accordance with the limitations with AWS - the identification process with AWS Identity Center currently does not support the injection of flags in advance, so I had to build with interactive window in front of the user and then the connection process with SSM is completely automatic.
+
+This tool is aimed to make the user exprience as closer as can to regular Client VPN exprience.
 
