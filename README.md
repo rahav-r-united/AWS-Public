@@ -17,5 +17,11 @@ Instance ID: The EC2 Instance ID as appeared in the AWS Console\
 Region: The region where the EC2 Instance\
 Profile: The profile name you get after you make the authentication process (You will see it in the CMD window after you finish the authentication process) - In most times it's the Permission set name with the account ID number\
 Instance OS: The EC2 Instance operating system - can accept Windows or Linux
+\
+\
+Requirments before run:\
+1. AWS CLI Installed - https://awscli.amazonaws.com/AWSCLIV2.msi
+2. AWS SSM Session Manager plugin Installed - https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe
+
 
 ![Screenshot](https://github.com/user-attachments/assets/6a5a8f97-a953-47ea-9e19-b1148e1b4b49)
