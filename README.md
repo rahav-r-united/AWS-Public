@@ -19,7 +19,7 @@ Profile: The profile name you get after you make the authentication process (You
 Instance OS: The EC2 Instance operating system - can accept Windows or Linux
 \
 \
-Requirments before run: \
+Requirments before run: 
 1. AWS CLI Installed - https://awscli.amazonaws.com/AWSCLIV2.msi
 2. AWS SSM Session Manager plugin Installed - https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe
 
