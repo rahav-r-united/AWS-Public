@@ -23,6 +23,5 @@ Requirments before run:\
 1. AWS CLI Installed - https://awscli.amazonaws.com/AWSCLIV2.msi
 2. AWS SSM Session Manager plugin Installed - https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe
 \
-\
 
 ![Screenshot](https://github.com/user-attachments/assets/6a5a8f97-a953-47ea-9e19-b1148e1b4b49)
