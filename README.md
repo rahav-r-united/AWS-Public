@@ -10,6 +10,8 @@ The tool was built with full automation, which is provided in accordance with th
 
 This tool is aimed to make the user exprience as closer as can to regular Client VPN exprience.
 
+I attached a full step by step guide how to use the tool - probably the first time can be little bit long to understand then the other times are fast and smooth.
+
 #########\
 Inputs\
 #########\
@@ -25,3 +27,8 @@ Requirments before run:
 
 \
 ![Screenshot](https://github.com/user-attachments/assets/6a5a8f97-a953-47ea-9e19-b1148e1b4b49)
+
+#########\
+Troubleshooting\
+#########\
+If the RDP window getting an error - try close it (the error windows only) and click on the Start SSM Session button again
